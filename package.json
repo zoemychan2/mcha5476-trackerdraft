@@ -1,0 +1,15 @@
+{
+  "name": "mcha5476-tracker",
+  "version": "1.0.0",
+  "description": "Tracker for DECO2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tracker",
+    "university"
+  ],
+  "author": "Zoe CHan",
+  "license": "ISC"
+}
